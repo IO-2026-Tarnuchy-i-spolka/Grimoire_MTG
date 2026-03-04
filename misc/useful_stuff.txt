@@ -1,0 +1,2 @@
+google ml kit do czytania tekstu z kart
+Oauth2 do potwierdzania torzsamości
